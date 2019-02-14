@@ -1,6 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Patrick Henry ZooKeeper
-;; Domain : Computers that won't boot 
+;; Domain : A Robot able to identify animals based on their behavior 
 ;; Author : Sebastian Moreno, Jossie Murcia
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
